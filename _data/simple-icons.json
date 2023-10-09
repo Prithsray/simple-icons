@@ -3155,6 +3155,11 @@
             "source": "https://critrole.com"
         },
         {
+    "title": "Crossref",
+    "hex": "3EB1C8",
+    "source": "https://assets.crossref.org/logo/"
+},
+        {
             "title": "Crowdin",
             "hex": "2E3340",
             "source": "https://support.crowdin.com/using-logo/"
@@ -6649,6 +6654,11 @@
             "title": "Jasmine",
             "hex": "8A4182",
             "source": "https://github.com/jasmine/jasmine/blob/8991b1bba39b5b7e89fc5eeb07ae271a684cb1a4/images/jasmine-horizontal.svg"
+        },
+        {
+            "title": "Java",
+            "hex": "f58219",
+            "source": "https://www.vectorlogo.zone/logos/java/"
         },
         {
             "title": "JavaScript",
@@ -12572,6 +12582,11 @@
             "source": "https://spring.io/projects"
         },
         {
+            "title": "Springer",
+            "hex": "000000",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Springer-logo.svg"
+        },
+        {
             "title": "Spyder IDE",
             "hex": "FF0000",
             "source": "https://www.spyder-ide.org"
@@ -13179,6 +13194,11 @@
             "license": {
                 "type": "CC-BY-NC-ND-4.0"
             }
+        },
+         {
+            "title": "Taylor & Francis",
+            "hex": "3f3f3f",
+            "source": "https://commons.wikimedia.org/wiki/File:Taylor_and_Francis.svg"
         },
         {
             "title": "TaxBuzz",
