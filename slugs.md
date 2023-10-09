@@ -564,6 +564,7 @@ update the script at 'scripts/release/update-slugs-table.js'.
 | `Credly` | `credly` |
 | `Crehana` | `crehana` |
 | `Critical Role` | `criticalrole` |
+| `Crossref` | `crossref` |
 | `Crowdin` | `crowdin` |
 | `Crowdsource` | `crowdsource` |
 | `Crunchbase` | `crunchbase` |
@@ -1196,6 +1197,7 @@ update the script at 'scripts/release/update-slugs-table.js'.
 | `Jameson` | `jameson` |
 | `Jamstack` | `jamstack` |
 | `Jasmine` | `jasmine` |
+| `Java` | `java` |
 | `JavaScript` | `javascript` |
 | `JBL` | `jbl` |
 | `JCB` | `jcb` |
@@ -2244,6 +2246,7 @@ update the script at 'scripts/release/update-slugs-table.js'.
 | `Spring` | `spring_creators` |
 | `Spring Boot` | `springboot` |
 | `Spring Security` | `springsecurity` |
+| `Springer` | `springer` |
 | `Spyder IDE` | `spyderide` |
 | `SQLite` | `sqlite` |
 | `Square` | `square` |
@@ -2355,6 +2358,7 @@ update the script at 'scripts/release/update-slugs-table.js'.
 | `Tata` | `tata` |
 | `Tata Consultancy Services` | `tcs` |
 | `Tauri` | `tauri` |
+| `Taylor & Francis` | `taylor&francis` |
 | `TaxBuzz` | `taxbuzz` |
 | `TeamCity` | `teamcity` |
 | `TeamSpeak` | `teamspeak` |
